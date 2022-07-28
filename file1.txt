@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is the first file! Modified.. 
+=======
+This is the first file! Modified..
+Changing by experimenting!!
+>>>>>>> d828e932d0ed7a3936baac9752f95e2d67631501
